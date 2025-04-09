@@ -1,4 +1,4 @@
-#TUGAS WEEK 6 - FONT AND COLOR ADJUSTER - IDA AYU VINAYA ANINDYA 
+##TUGAS WEEK 6 - FONT AND COLOR ADJUSTER - IDA AYU VINAYA ANINDYA 
 
 Berikut adalah tampilan dan bagian-bagian dari font and color adjuster app:
 
